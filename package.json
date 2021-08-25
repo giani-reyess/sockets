@@ -9,5 +9,8 @@
   },
   "keywords": [],
   "author": "Giani Reyes <in4ig.seyer@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.12"
+  }
 }
